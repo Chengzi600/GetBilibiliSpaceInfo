@@ -1,0 +1,2 @@
+# GetBilibiliSpaceInfo
+便捷获取B站个人主页信息和视频信息
